@@ -3,7 +3,7 @@ import tkinter as tk
 from tkinter import scrolledtext
 
 # URL of the raw .txt file on GitHub (update this to your file)
-GITHUB_RAW_URL = "https://raw.githubusercontent.com/username/repo/branch/path/to/yourfile.txt"
+GITHUB_RAW_URL = "https://raw.githubusercontent.com/LazyAIExperiments/ai-makes-ai/refs/heads/main/predefinedset/txt.txt"
 
 def fetch_text_from_github(url):
     try:
